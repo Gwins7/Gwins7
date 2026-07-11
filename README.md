@@ -20,7 +20,7 @@
 | 🎓 **M.Sc.** | Computer Architecture, **Institute of Computing Technology, Chinese Academy of Sciences** |
 | 🎓 **B.Sc.** | Computer Science and Technology, **University of Chinese Academy of Sciences** |
 | 💻 **Tech** | Computer architecture, agile hardware design, hardware security, FPGA SoCs, and low-level system software |
-| 🌐 **interests** | Almost everything, especially surfing on Internet, boardening horizons :) |
+| 🌐 **Interests** | Almost everything, especially surfing on Internet, boardening horizons :) |
 
 ## 🛠️ Tech Stack
 
