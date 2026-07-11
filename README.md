@@ -5,7 +5,7 @@
 ### Computer Architecture · RISC-V · FPGA SoC
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gwins7-181717?style=for-the-badge&logo=github)](https://github.com/Gwins7)
-[![XiangShan](https://img.shields.io/badge/Open_Source-XiangShan-C62828?style=for-the-badge&logo=github)](https://github.com/OpenXiangShan-Nanhu)
+[![XiangShan](https://img.shields.io/badge/Open_Source-XiangShan-C62828?style=for-the-badge&logo=github)](https://github.com/OpenXiangShan)
 
 </div>
 
