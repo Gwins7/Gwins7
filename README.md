@@ -42,7 +42,7 @@
 | :--- | :--- |
 | **[DBChecker](https://github.com/Gwins7/DBChecker)** | SoC-level I/O security mechanism based on DMA request checking. |
 | **[DASICS](https://github.com/DASICS-ICT)** | Hardware-assisted, fine-grained in-process isolation for RISC-V processors. |
-| **[NEXST](https://github.com/DASICS-ICT/nexst)** | Linux-capable Nanhu FPGA SoCs with DDR4, PCIe, and Ethernet. |
+| **[NEXST](https://github.com/DASICS-ICT/nexst)** | Linux-capable Nanhu FPGA SoCs with DDR4, PCIe, and Ethernet. ([Open-source Ver.](https://github.com/NEXST-TOOL/nexst)) |
 | **[SmartNIC](https://github.com/Gwins7/SmartNIC)** | A modular 100 Gbps FPGA SmartNIC built with Chisel and DPDK. |
 | **[CCoreOS](https://github.com/Gwins7/CCoreOS)** | A lightweight RISC-V operating system kernel written from scratch in C. |
 
